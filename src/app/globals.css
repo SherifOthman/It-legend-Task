@@ -1,0 +1,15 @@
+@import "tailwindcss";
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: "League Spartan", sans-serif;
+}
+
+@theme {
+  --color-background-gray: #f5f9fa;
+  --color-button: #41b69d;
+  --color-question: #455cc5;
+}
