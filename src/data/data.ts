@@ -280,7 +280,7 @@ export const courseWeeks: CourseWeekType[] = [
         id: 3,
         title: "Introduction Quiz",
         type: "exam",
-        duration: 15,
+        duration: 5,
         finished: false,
         questions: [
           {
@@ -347,7 +347,7 @@ export const courseWeeks: CourseWeekType[] = [
         id: 6,
         title: "Functions Quiz",
         type: "exam",
-        duration: 20,
+        duration: 10,
         finished: false,
         questions: [
           {
@@ -414,7 +414,7 @@ export const courseWeeks: CourseWeekType[] = [
         id: 9,
         title: "DOM Practice Exercises",
         type: "exam",
-        duration: 25,
+        duration: 7,
         finished: false,
         questions: [
           {
@@ -496,7 +496,7 @@ export const courseWeeks: CourseWeekType[] = [
         id: 12,
         title: "Async Programming Quiz",
         type: "exam",
-        duration: 20,
+        duration: 8,
         finished: false,
         questions: [
           {

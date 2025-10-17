@@ -6,7 +6,7 @@ import {
 } from "lucide-react";
 import Link from "next/link";
 import { useState } from "react";
-import { Leaderboard } from "./Leaderboard";
+import { Leaderboard } from "./Leaderboards/Leaderboard";
 import { Modal } from "./Modal";
 import { AskQuestion } from "./Questions/AskQuestion";
 
