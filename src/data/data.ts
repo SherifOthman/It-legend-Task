@@ -10,7 +10,7 @@ export const comments: CommentType[] = [
   {
     id: 1,
     userName: "Hamada Mido",
-    userImage: "/profile.jpg",
+    userImage: "/images/profile.jpg",
     date: "Oct 10, 2024",
     text: "This course helped me finally understand JavaScript scope. The examples were very practical and easy to follow!",
   },
